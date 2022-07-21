@@ -1,0 +1,77 @@
+main {
+  
+  height: 275px;
+  width: 360px;
+  
+  background: #f0fffe;
+  margin-top: 6px;
+  margin-left : 7px;
+}
+button{
+     float: right;
+     height: 33px;
+     width: 35px;
+     color: grey;
+   background: snow;
+  font-weight:bold;
+  font-size: 18px;
+}
+label{
+color : black;
+  margin-left : 7px;
+}
+div #AppName{
+  height: 35px;
+  background: snow
+}
+ #typeText{
+   margin-top: 5px;
+   font-size : 12px;
+  width: 330px;
+  margin-left:7px;
+
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+#Cal {
+  position: above;
+  
+}
+#typeText2{
+ margin-top: 5px;
+  margin-left:7px;
+}
+#typeText3{
+ 
+margin-top: 5px;
+  margin-left:7px;
+  width: 150px;
+  
+}
+
+#inlineFormCustomSelectPref{
+  margin-left:7px;
+  width: 330px;
+  height: 23px;
+}
+#save {
+  margin-top: 10px;
+  margin-right: 25px;
+  width: 75px;
+  height: 35px;
+  font-size: 15px;
+}
+
+#cancel {
+  margin-top: 10px;
+  margin-right: 110px;
+  width: 35px;
+  height: 35px;
+  font-size: 15px;
+}
